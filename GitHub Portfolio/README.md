@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **golitejasree@gmail.com**
 
+- 🧠 My Interests are: Data Visualziation, Machine Learning, Reading Books and Writing!
+
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/teja sree goli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="teja sree goli" height="20" width="20" /></a>
