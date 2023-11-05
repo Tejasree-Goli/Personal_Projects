@@ -1,4 +1,4 @@
-### LinkedIn Data - Analysis
+### LinkedIn Profile - Analysis
 
 **Objective:**
 After being absent from Instagram for over a month, I've found myself spending more time on LinkedIn. While I am aware that this increased activity time is spent on networking and job applications, I recently stumbled upon a post detailing an individual's LinkedIn profile growth over the years. It created an interest in my mind, leading me to wonder about my own account usage. So, I ended up working on a Power BI project to analyze my LinkedIn profile data.
