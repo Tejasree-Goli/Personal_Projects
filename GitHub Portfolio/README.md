@@ -1,4 +1,4 @@
-![logo](https://github.com/Tejasree-Goli/Tejasree-Goli/blob/main/AI%20and%20Data%20Enthusiast.png)
+![logo](https://github.com/Tejasree-Goli/Personal_Projects/blob/main/GitHub%20Portfolio/AI%20and%20Data%20Enthusiast.png)
 <h1 align="center">Hi 👋, I'm Teja Sree Goli</h1>
 <p align="center"> <b>Computer Engineering Graduate Student @ SJSU!</b> </p>
 
