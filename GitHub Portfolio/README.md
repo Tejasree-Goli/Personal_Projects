@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tejasree-Goli](https://github.com/Tejasree-Goli)
 
-- 📝 I regularly write articles on [https://golitejasree.com](https://golitejasree.com)
+- 📝 I regularly write articles on various topics at [https://golitejasree.com](https://golitejasree.com)
 
 - 📫 How to reach me **golitejasree@gmail.com**
 
